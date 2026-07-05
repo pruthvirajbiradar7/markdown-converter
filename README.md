@@ -94,6 +94,14 @@ A dialog appears showing how many files will be converted and asking you to
 confirm. Click Yes and all supported files in the folder are converted silently.
 Each `.md` file appears next to its original.
 
+### Right-click a Markdown file to get a Word document
+Right-click any `.md` file → **"Convert to Word"**
+
+Silently converts the Markdown file to a `.docx` Word document that appears
+right next to the original. Headings, bold, italic, tables, lists and code
+blocks are all preserved. This option only appears on `.md` files — not on
+any other file type.
+
 ### Auto-watched inbox folder
 Double-click **`start_watcher.bat`** and leave it running. Drop files into
 `~/markdown-inbox` and they convert automatically within seconds.

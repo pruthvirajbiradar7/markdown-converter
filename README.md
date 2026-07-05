@@ -25,6 +25,7 @@ documents to the internet. This tool does it locally, instantly, and privately.
   the `.md` file appears next to the original in seconds
 - **Right-click any folder** to convert all supported files inside it at once,
   with a confirmation dialog showing how many files will be converted
+  **Right-click any .md file** → *Convert to Word* — silently converts to .docx next to the original
 - **Auto-watched inbox folder** — drop files in, get Markdown out automatically
 - **OCR support** — reads text labels and content from images and diagrams
   (requires free Tesseract install)

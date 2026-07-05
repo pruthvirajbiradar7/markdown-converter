@@ -1,0 +1,10 @@
+markitdown>=0.1.0
+pymupdf
+python-docx
+mammoth
+python-pptx
+openpyxl
+pandas
+beautifulsoup4
+pytesseract
+pillow

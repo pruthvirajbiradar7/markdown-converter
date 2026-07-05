@@ -1,0 +1,21 @@
+# Python virtual environment - never upload this (hundreds of MB, others install fresh)
+venv/
+
+# Python cache files - auto-generated, not needed
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Log files - personal to each machine
+mdconvert_log.txt
+*.log
+
+# Windows OS files
+Thumbs.db
+desktop.ini
+
+# Mac OS files (if you ever use a Mac)
+.DS_Store
+
+# Any test output files
+*.md.bak

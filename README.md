@@ -163,5 +163,5 @@ MIT — free to use, modify, and share. See [LICENSE](LICENSE).
 
 ## Author
 
-Built by Prajwal RB as a personal productivity tool for working with AI systems
+Built by Pruthvi Raj Biradar as a personal productivity tool for working with AI systems
 that read Markdown.
